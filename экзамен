@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Beatles - Участники группы</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Главная</a></li>
+            <li><a href="discography.html">Дискография</a></li>
+            <li><a href="members.html" class="active">Участники группы</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h1>Участники группы</h1>
+        <div class="members">
+            <div class="member">
+                <h2>Джон Леннон</h2>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_1969_%28cropped%29.jpg" alt="Джон Леннон">
+                <p>Ритм-гитара, вокал (1960-1969)</p>
+            </div>
+            <div class="member">
+                <h2>Пол Маккартни</h2>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Paul_McCartney_in_October_2018.jpg" alt="Пол Маккартни">
+                <p>Бас-гитара, вокал (1960-1970)</p>
+            </div>
+            <div class="member">
+                <h2>Джордж Харрисон</h2>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/George_Harrison_1974.jpg" alt="Джордж Харрисон">
+                <p>Соло-гитара, вокал (1960-1970)</p>
+            </div>
+            <div class="member">
+                <h2>Ринго Старр</h2>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Ringo_Starr_and_All-Starr_Band_%288470866906%29.jpg" alt="Ринго Старр">
+                <p>Ударные, вокал (1962-1970)</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Фан-сайт The Beatles</p>
+    </footer>
+</body>
+</html>
